@@ -1,0 +1,31 @@
+﻿@font-face {
+    font-family: 'Assistant-ExtraBold';
+    src: url('../‏‏תיקיה חדשה/Assistant-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Assistant-Bold';
+    src: url('../‏‏תיקיה חדשה/Assistant-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Assistant-Regular';
+    src: url('../‏‏תיקיה חדשה/Assistant-Regular.ttf') format('truetype');
+}
+body {
+    direction: rtl;
+    background-color: #EFEDEF;
+}
+
+h1 {
+    font-family: 'Assistant-ExtraBold';
+}
+h2, h3 {
+    font-family: 'Assistant-Bold';
+}
+p, ul, a {
+    font-family: 'Assistant-Regular';
+}
+
+#websize {
+    width:850px;
+}
+
